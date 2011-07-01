@@ -16,7 +16,9 @@ Google lets you change the favicon for your Google Apps account, right? Oh. No t
 
 -------------------
 
-dotjs to the rescue! Go grab the dotjs project. It's available for a bunch of browsers.
+dotjs to the rescue! Go grab the dotjs project. https://github.com/defunkt/dotjs
+
+It's also available for Firefox - https://github.com/rlr/dotjs-addon - and Safari - https://github.com/wfarr/dotjs.safariextension
 
 Now shove this file, mail.google.com.js in your .js folder and configure it. All the instructions are in comments in the file itself. There aren't many of them!
 
